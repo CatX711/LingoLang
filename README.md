@@ -8,11 +8,7 @@
 
 
 
-
-![LingoLang](https://user-images.githubusercontent.com/CatX711/LingoLang/assets/104099162/985d333b-40ba-4b6a-b47b-282f4a1118f6)
-
-
-
+<img scr="https://user-images.githubusercontent.com/CatX711/LingoLang/assets/104099162/7a2000f1-7060-4546-b4b0-f42194b8a63">
 
 
 
