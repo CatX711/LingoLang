@@ -4,7 +4,8 @@
 <br />
 
 
-<img width="350" alt="gl_logo" src="https://user-images.githubusercontent.com/104099162/233204742-2e67a50f-dc65-4c34-b11c-e37bdeee3023.png">
+<img width="350" alt="gl_logo" src="https://![LingoLang](https://github.com/CatX711/LingoLang/assets/104099162/1aa23f27-21a1-4b4f-883d-665db15d30fa)
+">
 
 
 <br />
