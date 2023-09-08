@@ -136,6 +136,29 @@ Instead of having independant header tags for the terminal, there's the size def
 Now we get on to the juicy stuff. Website building is a lot easier than you expect with Lingo. <br />
 First, secure a domain, with it's own IP address. `E.g 184.212.251.94`
 
+<br />
+
+Open up a fresh Lingo-gram (Lingo Program/File) and write the following:
+
+<br />
+<br />
+
+```JS
+--domainIp = 184.212.251.94
+```
+
+Great! You've just told your server what website it has to contact. <br />
+
+```JS
+--domainIp = 184.212.251.94
+
+--webName = My Lovely Website
+```
+
+<br />
+
+`webName` is what you want your website's name to be. What you write will be displayed on the tab for your website.
+
 
 
 
