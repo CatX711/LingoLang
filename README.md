@@ -8,7 +8,8 @@
 
 
 
-<img width =350 alt=LingoLang scr=https://user-images.githubusercontent.com/CatX711/LingoLang/assets/104099162/7a2000f1-7060-4546-b4b0-f42194b8a63.png>
+
+<img width="350" alt="gl_logo" src="https://user-images.githubusercontent.com/104099162/233204742-2e67a50f-dc65-4c34-b11c-e37bdeee3023.png">
 
 
 
