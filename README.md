@@ -119,6 +119,25 @@ While using `--Req` we can define size, font, colour, etc.
 
 You can see here how we define size, font and colour all in one Req! No need for extra lines, just plain old simplicity. `Note: seperate different things you want to alter with a comma: ,   and when changing the size, font or colour, never use spaces, substitute them with underscores: _`
 
+<br />
+
+Instead of having independant header tags for the terminal, there's the size definition.
+
+<br />
+<br />
+<br />
+<br />
+
+<h2>Website Building</h2>
+
+<br />
+<br />
+
+Now we get on to the juicy stuff. Website building is a lot easier than you expect with Lingo. <br />
+First, secure a domain, with it's own IP address. `E.g 184.212.251.94`
+
+
+
 
 
 
