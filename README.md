@@ -46,6 +46,18 @@ This, however, aims to be more concise, and just for me or any other developers 
 
 
 
+<br />
+<br />
+<br />
+<br />
+
+<h1>Basic Syntax<h2/>
+
+<br />
+<br />
+
+
+
 
 
 
