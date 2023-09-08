@@ -4,8 +4,8 @@
 <br />
 
 
-<img width="350" alt="LingoLang" src="https://https://github.com/CatX711/LingoLang/assets/104099162/1aa23f27-21a1-4b4f-883d-665db15d30fa
-">
+![LingoLang](https://github.com/CatX711/LingoLang/assets/104099162/985d333b-40ba-4b6a-b47b-282f4a1118f6)
+
 
 
 <br />
