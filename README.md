@@ -59,7 +59,7 @@ This, however, aims to be more concise, and just for me or any other developers 
 <br />
 <br />
 
-<h2>Basic Syntax<h2/>
+<h2>Basic Syntax</h2>
 
 <br />
 <br />
