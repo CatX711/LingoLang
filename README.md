@@ -71,8 +71,8 @@ This, however, aims to be more concise, and just for me or any other developers 
 <br />
 <br />
 
-```HTML
-<h1>
+```C
+printf("Heyo, this is a test");
 ``` 
 
 
