@@ -80,8 +80,8 @@ Let's start with printing a simple `Hello there!`. This will send out a request 
 <br />
 
 By using `--Req` we make a request. Isn't that convenient? <br />
-And if you want your terminal to look very pretty, you can still use the styling tags like <h1> from HTML that are normally restricted for the website code. <br />
-That means your terminal could end up looking like this when you run your program, if you so wish:
+<p>And if you want your terminal to look very pretty, you can still use the styling tags like <h> from HTML that are normally restricted for the website code. <br />
+That means your terminal could end up looking like this when you run your program, if you so wish: </p>
 
 <br />
 
