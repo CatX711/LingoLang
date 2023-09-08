@@ -88,6 +88,22 @@ That means your terminal could end up looking like this when you run your progra
 ![3HNXH-3307957011](https://github.com/CatX711/LingoLang/assets/104099162/7b7470e5-5776-4984-b346-4dc466f22d2a)
 
 
+<br />
+<br />
+<br />
+
+Let's go over styling tags, shall we?
+
+
+<br />
+<br />
+<br />
+<br />
+
+
+
+
+
 
 
 
