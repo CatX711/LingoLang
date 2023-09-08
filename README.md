@@ -151,7 +151,6 @@ Great! You've just told your server what website it has to contact. <br />
 
 ```JS
 --domainIp = 184.212.251.94
-
 --webName = My Lovely Website
 ```
 
