@@ -92,13 +92,24 @@ That means your terminal could end up looking like this when you run your progra
 <br />
 <br />
 
-Let's go over styling tags, shall we?
+Let's go over styling, shall we?
 
 
 <br />
 <br />
 <br />
 <br />
+
+<h2>Styling</h2>
+
+<br />
+<br />
+
+So, how do we style our terminal text? <br />
+While using `--Req` we can define size, font, colour, etc.
+
+<br />
+
 
 
 
