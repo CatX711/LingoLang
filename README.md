@@ -72,7 +72,7 @@ Let's start with printing a simple `Hello there!`. This will send out a request 
 <br />
 <br />
 
-```HTML
+```JS
 --Req("Hello there!")
 ``` 
 
