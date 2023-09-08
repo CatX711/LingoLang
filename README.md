@@ -4,7 +4,7 @@
 <br />
 
 
-<img width="350" alt="gl_logo" src="https://![LingoLang](https://github.com/CatX711/LingoLang/assets/104099162/1aa23f27-21a1-4b4f-883d-665db15d30fa)
+<img width="350" alt="LingoLang" src="https://![LingoLang](https://github.com/CatX711/LingoLang/assets/104099162/1aa23f27-21a1-4b4f-883d-665db15d30fa)
 ">
 
 
