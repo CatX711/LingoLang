@@ -64,8 +64,9 @@ This, however, aims to be more concise, and just for me or any other developers 
 <br />
 <br />
 
-Lingo is a server side language built to be easier to understand than HTML. It has a simple syntax, easy to learn concepts, and a beginner friendly UI. <br />
-Let's start with printing a simple `Hello there!`. This will send out a request to the server to output our text into the terminal. Keep in mind that we are not currently on any website.
+<p>Lingo is a server side language built to be easier to understand than HTML. It has a simple syntax, easy to learn concepts, and a beginner friendly UI.</p> <br />
+<p>Let's start with printing a simple `Hello there!`. This will send out a request to the server to output our text into the terminal. Keep in mind that we are not currently on any website.</p>
+
 
 <br />
 <br />
