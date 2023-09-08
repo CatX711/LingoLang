@@ -3,7 +3,7 @@
 <br />
 <br />
 
-<img width="350" alt="LingoLang" src="https://![LingoLang](https://github.com/CatX711/LingoLang/assets/104099162/2d1c2e8f-6c23-44c2-b309-ad4fb9b6bd19)
+<img width="350" alt="LingoLang" src="https://https://github.com/CatX711/LingoLang/assets/104099162/2d1c2e8f-6c23-44c2-b309-ad4fb9b6bd19
 6.png">
 
 <br />
