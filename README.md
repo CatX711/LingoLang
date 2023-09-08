@@ -76,6 +76,19 @@ Let's start with printing a simple `Hello there!`. This will send out a request 
 --Req("Hello there!")
 ``` 
 
+<br />
+<br />
+
+By using `--Req` we make a request. Isn't that convenient? <br />
+And if you want your terminal to look very pretty, you can still use the styling tags like <h1> from HTML that are normally restricted for the website code. <br />
+That means your terminal could end up looking like this when you run your program, if you so wish:
+
+<br />
+
+![3HNXH-3307957011](https://github.com/CatX711/LingoLang/assets/104099162/7b7470e5-5776-4984-b346-4dc466f22d2a)
+
+
+
 
 
 
