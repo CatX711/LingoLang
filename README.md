@@ -3,6 +3,10 @@
 <br />
 <br />
 
+<p>![LingoLang](https://github.com/CatX711/LingoLang/assets/104099162/1bf49d28-ce2f-4065-85fb-60566929e746)</p>
+
+<br />
+
 
 >Ah yes, another adition to the multitude of pointless creations I own.
 >
