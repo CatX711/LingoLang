@@ -4,7 +4,7 @@
 <br />
 
 
-![LingoLang](https://user-images.githubusercontent.com/CatX711/LingoLang/assets/104099162/985d333b-40ba-4b6a-b47b-282f4a1118f6)
+<img ![LingoLang](https://user-images.githubusercontent.com/CatX711/LingoLang/assets/104099162/985d333b-40ba-4b6a-b47b-282f4a1118f6)>
 
 
 
