@@ -8,7 +8,7 @@
 
 
 
-<img width ="350" scr="https://user-images.githubusercontent.com/CatX711/LingoLang/assets/104099162/7a2000f1-7060-4546-b4b0-f42194b8a63">
+<img width ="350" scr="https://user-images.githubusercontent.com/CatX711/LingoLang/assets/104099162/7a2000f1-7060-4546-b4b0-f42194b8a63.png">
 
 
 
