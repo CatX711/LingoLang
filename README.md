@@ -110,7 +110,14 @@ While using `--Req` we can define size, font, colour, etc.
 
 <br />
 
+```JS
+--Req(size=2, font=Comic_Sans, colour=Brilliant_Blue, "I love pizza!")
+```
 
+<br />
+<br />
+
+You can see here how we define size, font and colour all in one Req! No need for extra lines, just plain old simplicity. `Note: seperate different things you want to alter with a comma: ,   and when changing the size, font or colour, never use spaces, substitute them with underscores: _`
 
 
 
