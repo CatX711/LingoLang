@@ -3,8 +3,11 @@
 <br />
 <br />
 
-![LangLingo](https://github.com/CatX711/LingoLang/assets/104099162/d89dbf31-9c59-4ff9-afdc-6cc51b0e938c)
 
+![LangLingoDeepfry](https://github.com/CatX711/LingoLang/assets/104099162/cededcfd-bd39-40bc-8edb-132186f3c6c2)
+
+
+<br />
 
 
 <h2>olleH dlroW!</h2>
