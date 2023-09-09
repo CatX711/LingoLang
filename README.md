@@ -163,9 +163,13 @@ Great! You've just told your server what website it has to contact. <br />
 
 ![Screenshot 2023-09-09 133842](https://github.com/CatX711/LingoLang/assets/104099162/722c0286-bf13-48d8-aee8-0997a70d5b73)
 
+![Screenshot 2023-09-09 133921](https://github.com/CatX711/LingoLang/assets/104099162/8054ae1e-ce04-45ab-9822-20f4e3e3483a)
+
+<br />
 <br />
 
-![Screenshot 2023-09-09 133921](https://github.com/CatX711/LingoLang/assets/104099162/8054ae1e-ce04-45ab-9822-20f4e3e3483a)
+You can also put your own icon there, if you wish.
+
 
 
 
