@@ -180,7 +180,7 @@ You can also put your own icon there, if you wish.
 --domainIp = 184.212.251.94
 --tabName = My Lovely Website
 
---tabIcon(src=./Pictures/LingoLang)
+--tabIcon(src=./Pictures/CatImage03)
 ```
 
 <br />
