@@ -199,8 +199,12 @@ You can also put your own icon there, if you wish.
 
 <br />
 
-What does that mean? Well, that's a way to put a tiny LingoLang icon in the tab bar. `scr` is the image source, aka where it's stored in your computer. The server will find this in your computer and make a duplicate for it's own, before displaying it to anyone else visiting your website. The way to access an image is: `.` to exit any other repositories you may be in, followed by `/Foldername` (change foldername to the actual name of the folder your image is in, and in my case, the folder storing my image is named Pictures), and finally `/Imagename` (do the same here).
+What does that mean? Well, that's a way to put a tiny LingoLang icon in the tab bar. `scr` is the image source, aka where it's stored in your computer. The server will find this in your computer and make a duplicate for it's own, before displaying it to anyone else visiting your website. The way to access an image is: `.` to exit any other repositories you may be in, followed by `/Foldername` (change foldername to the actual name of the folder your image is in, and in my case, the folder storing my image is named Pictures), and `/Imagename` (do the same here). Finally, follow that by the file's type. For example, `.png` for a png file.
 
+<br />
+<br />
+
+The complete formula is: `./Foldername/Imagename.type`
 
 
 
