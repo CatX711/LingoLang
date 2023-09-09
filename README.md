@@ -90,7 +90,11 @@ Another useful thing to know is how to make comments. Comments are text in your 
 
 --Req("Cake makes me feel supercalifragilisticexpialidocious!") ;Change word, far too complex.
 ```
-<p>And if you want your terminal to look very pretty, you can still use the styling tags like <h> from HTML that are normally restricted for the website code. <br />
+
+<br />
+<br />
+
+<p>If you want your terminal to look very pretty, you can still use the styling tags like <h> from HTML that are normally restricted for the website code. <br />
 That means your terminal could end up looking like this when you run your program, if you so wish: </p>
 
 <br />
