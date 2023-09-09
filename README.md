@@ -166,6 +166,10 @@ Great! You've just told your server what website it has to contact. <br />
 ![Screenshot 2023-09-09 133921](https://github.com/CatX711/LingoLang/assets/104099162/8054ae1e-ce04-45ab-9822-20f4e3e3483a)
 
 <br />
+
+(Snag a quick look at my own website's tab name if you want another example: https://resilient-gumption-7417cf.netlify.app/)
+
+<br />
 <br />
 
 You can also put your own icon there, if you wish.
