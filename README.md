@@ -156,7 +156,18 @@ Great! You've just told your server what website it has to contact. <br />
 
 <br />
 
-`tabName` is what you want to be displayed on your website's tab. E.g the name on the tab you're on right now is: `CatX711/Lingolang/Ah yes, another adition to the multitude of pointless creations I own. ` Or ``
+`tabName` is what you want to be displayed on your website's tab. E.g the name on the tab you're on right now is: `CatX711/Lingolang/Ah yes, another adition to the multitude of pointless creations I own. ` Or `LingoLang/README.md at main ` depending on how you're reading this. Sure, that's not the best example, but here's one that's easier to understand: Go on YouTube or Google, and be on a fresh page. For Google, you simply have the word 'Google' displayed in the tab. The same goes for youtube.
+
+<br />
+<br />
+
+![Screenshot 2023-09-09 133842](https://github.com/CatX711/LingoLang/assets/104099162/722c0286-bf13-48d8-aee8-0997a70d5b73)
+
+<br />
+
+![Screenshot 2023-09-09 133921](https://github.com/CatX711/LingoLang/assets/104099162/8054ae1e-ce04-45ab-9822-20f4e3e3483a)
+
+
 
 
 
