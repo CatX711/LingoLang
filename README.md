@@ -1,7 +1,4 @@
-#
-
-
-<p style="text-align: center;">LingoLang</p>
+# LingoLang
 
 <br />
 <br />
