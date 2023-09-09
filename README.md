@@ -121,7 +121,7 @@ You can see here how we define size, font and colour all in one Req! No need for
 
 <br />
 
-Instead of having independant header tags for the terminal, there's the size definition.
+Keep in mind, instead of having independant header tags for the terminal, the only method of changing the size of a string is the `size` variable within the Req function. For less confusion and time spent refreshing your website every time you change the `size=`, instead you will have a version of <h> tags from HTML, but only when working with code for a website. So, `size` is for terminal strings only. Got it?
 
 <br />
 <br />
