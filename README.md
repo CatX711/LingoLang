@@ -151,12 +151,12 @@ Great! You've just told your server what website it has to contact. <br />
 
 ```JS
 --domainIp = 184.212.251.94
---webName = My Lovely Website
+--tabName = My Lovely Website
 ```
 
 <br />
 
-`webName` is what you want your website's name to be. What you write will be displayed on the tab for your website.
+`tabName` is what you want to be displayed on your website's tab. E.g the name on the tab you're on right now is: 
 
 
 
