@@ -60,6 +60,35 @@ sihT, revewoh, smia ot eb erom esicnoc, dna tsuj rof em ro yna rehto srepoleved 
 .liated fo htrow s'drow 0002 eht tuohtiw daer ot evisserpmi krow ym dnif ohw srepoleved rehto yna ro em rof tsuj dna ,esicnoc erom eb ot smia ,revewoh ,Siht
 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+
+# L
+
+<br />
+<br />
+
+![L-fry](https://github.com/CatX711/LingoLang/assets/104099162/858fe7c8-5b5b-48db-81ba-c944d2b161db)
+
+
+<br />
+
+<h2>lohle odlwr!</h2>
+
+<br />
+
+ollhe lrwdo. meoclew to tihs enw ogmgmriapnr agnalgue obko! well, ctlniaeyhlc this hsolud be rmeo of eth "ocilifaf odcs", ubt idd ouy see hwo mayn rodws rgglaenet+ tgo ot? heya, 0002 odwrs si tpteyr hcum a book.
+ei'v eenb iynagnre to teg ackb oitn teh rpnommgragi wrlod rtlnecey, btu i t'neavh yaelrl noknw how. eht nigth is, vei' ebne ndgoi a tol fo inwrgti. os... yoka, i etg it, sutj tel em hvae smoe fnu ;)
+
+
+acgondirc to dfebeakc eht rgeelnatg+ ookb aws a lot emor reoevsb, cniangtnoi lnog and andwr tuo peltosainixn orf msot fo t'is fuaesrte. utb i 'tnca lei, atth was the npoti. atth kboo was a yaw ot stet my aoimrggmnrp + wirtgin slsilk dan imongatiani. ti saw gisamusn oyu ewer a nbgrinee, wchih most of eth poelpe in my yfmial dna nidfre ruopg ear. oehrevw, deu to teh kcla of rtesntie ni ogmagpmirrn, dan quite nflyakr, the onuhmugos izse fo it, im' gigsusen nurdoa 4 lpepeo nlyo reev was it. me, my dad, my mum, and psahrep meso amdrno reocd bnrwsoig teh isbtweenr.
+
+
 
 
 
