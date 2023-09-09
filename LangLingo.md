@@ -37,7 +37,8 @@ sihT, revewoh, smia ot eb erom esicnoc, dna tsuj rof em ro yna rehto srepoleved 
 
 
 
-![th-1657080606](https://github.com/CatX711/LingoLang/assets/104099162/39ec1985-c58b-4ac8-89f1-5319d984d01d)
+![LangoDeepfried](https://github.com/CatX711/LingoLang/assets/104099162/e28991f3-8d41-4494-be69-df71239de9a4)
+
 
 
 
