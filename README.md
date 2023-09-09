@@ -206,6 +206,11 @@ What does that mean? Well, that's a way to put a tiny LingoLang icon in the tab 
 
 The complete formula is: `./Foldername/Imagename.type`
 
+<br />
+<br />
+
+Also, please note that the icon has a set size and any images that have a lot of information will have lower resolution when packed into a smaller space.
+
 
 
 
