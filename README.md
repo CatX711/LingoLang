@@ -66,7 +66,7 @@ This, however, aims to be more concise, and just for me or any other developers 
 
 <p>Lingo is a server side language built to be easier to understand than HTML. It has a simple syntax, easy to learn concepts, and a beginner friendly UI.</p> <br />
 
-Let's start with printing a simple `Hello there!`. This will send out a request to the server to output our text into the terminal. Keep in mind that we are not currently on any website.
+Let's start with printing a simple `Hello there!`. We will need to send out a request to the server to output our text into the terminal. Keep in mind that we are not currently on any website.
 
 
 <br />
@@ -79,7 +79,7 @@ Let's start with printing a simple `Hello there!`. This will send out a request 
 <br />
 <br />
 
-By using `--Req` we make a request. Isn't that convenient? <br />
+By using `--Req` we make our request. Isn't that convenient? <br />
 <p>And if you want your terminal to look very pretty, you can still use the styling tags like <h> from HTML that are normally restricted for the website code. <br />
 That means your terminal could end up looking like this when you run your program, if you so wish: </p>
 
