@@ -156,7 +156,7 @@ Great! You've just told your server what website it has to contact. <br />
 
 <br />
 
-`tabName` is what you want to be displayed on your website's tab. E.g the name on the tab you're on right now is: 
+`tabName` is what you want to be displayed on your website's tab. E.g the name on the tab you're on right now is: `CatX711/Lingolang/Ah yes, another adition to the multitude of pointless creations I own. ` Or ``
 
 
 
