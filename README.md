@@ -1,4 +1,6 @@
-# LingoLang
+<div style="text-align:center;">
+    <h1>LingoLang</h1>
+</div>
 
 <br />
 <br />
