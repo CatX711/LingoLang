@@ -1,7 +1,7 @@
 #
 
 
-<h1 style="text-align: center;">LingoLang</h1>
+<p style="text-align: center;">LingoLang</p>
 
 <br />
 <br />
