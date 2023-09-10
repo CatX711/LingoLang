@@ -80,7 +80,7 @@ Let's start with printing a simple `Hello there!`. We will need to send out a re
 <br />
 
 By using `--Req` we make our request. Isn't that convenient? <br />
-Another useful thing to know is how to make comments. Comments are text in your code that serves as info for anyone reading it. You probably know that alredy. So, how do you comment in Lingo?
+Another useful thing to know is how to make comments. Comments are pieces of text in your code that serve as info for anyone reading it. You probably know that alredy. So, how do you comment in Lingo?
 
 <br />
 
