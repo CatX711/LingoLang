@@ -233,7 +233,7 @@ So, now your website should be a blank page. Let's write something! The default 
 
 <br />
 
-The way font families work is: The first font you put down is the first to be rendered. If your website cannot load that specific font, it will try the next one specified. E.g, if I have two fonts in my font family, 'Papyrus' and 'Roboto', the website would fall bacl on Roboto if it couldn't load Papyrus.
+The way font families work is: The first font you put down is the first to be rendered. If your website cannot load that specific font, it will try the next one specified. E.g, if I have two fonts in my font family, 'Papyrus' and 'Roboto', the website would fall back on Roboto if it couldn't load Papyrus.
 
 
 
