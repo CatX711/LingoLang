@@ -211,7 +211,20 @@ The complete formula is: `./Foldername/Imagename.type`
 
 Also, please note that the icon has a set size and any images that have a lot of information will have lower resolution when packed into a smaller space.
 
+<br />
+<br />
+<br />
 
+So, now your website should be a blank page. Let's write something! The default text is going to be a serif font, Times New Roman, however, if you do not like that font you can change it in the code by defining the font family using `--fontFamily =`
+
+<br />
+
+```JS
+--domainIp = 184.212.251.94
+--tabName = My Lovely Website
+
+--tabIcon(src=./Pictures/CatImage03)
+```
 
 
 
