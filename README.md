@@ -215,17 +215,25 @@ Also, please note that the icon has a set size and any images that have a lot of
 <br />
 <br />
 
-So, now your website should be a blank page. Let's write something! The default text is going to be a serif font, Times New Roman, however, if you do not like that font you can change it in the code by defining the font family using `--fontFamily =`
+So, now your website should be a blank page. Let's write something! The default text is going to be a serif font, Times New Roman, however, if you do not like that font you can change it in the code by defining the font family using `--fontFamily = `
 
 <br />
 
 ```JS
+;Prefiguration
 --domainIp = 184.212.251.94
 --tabName = My Lovely Website
+--tabIcon(src=./Pictures/CatImage03.png)
 
---tabIcon(src=./Pictures/CatImage03)
+--fontFamily = Sans_Serif, Noto_Sans_Linear_B, Comic_Sans ;comic sans is the last resort 😬
+
+;Website code:
+
 ```
 
+<br />
+
+The way font families work is: The first font you put down is the first to be rendered. If your website cannot load that specific font, it will try the next one specified. E.g, if I have two fonts in my font family, 'Papyrus' and 'Roboto', the website would fall bacl on Roboto if it couldn't load Papyrus.
 
 
 
