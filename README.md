@@ -248,7 +248,7 @@ Alright, people. Put your hard hats on, because we've moved on from preconfigura
 <br />
 
 The starter kit needed for building a website is obviously: How to display text, how to style text, how to arrange the different elements of it, and how to personalise it. <br />
-In Lingo the way to create text is through `para` and `header1-6 `. Para is paragraph, `p` in HTML, and header is obviously `h `. 
+In Lingo the way to create text is through `para` and `header1-6`. Para is paragraph, `p` in HTML, and header is obviously `h`. 
 
 ```JS
 -header2/"Aloha!"
