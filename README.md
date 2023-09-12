@@ -255,6 +255,11 @@ In Lingo the way to create text is through `para` and `header1-6`. Para is parag
 -para/"I like oranges."
 ```
 
+<br />
+<br />
+
+If you wanted to have, for example, a size 3 header instead of the default size one header (when you just write 'header' and dont specify the size with any number), write `header3`. It's the same with every other size. 
+
 
 
 
