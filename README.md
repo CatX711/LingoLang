@@ -235,8 +235,25 @@ So, now your website should be a blank page. Let's write something! The default 
 
 The way font families work is: The first font you put down is the first to be rendered. If your website cannot load that specific font, it will try the next one specified. E.g, if I have two fonts in my font family, 'Papyrus' and 'Roboto', the website would fall back on Roboto if it couldn't load Papyrus.
 
+<br />
+<br />
 
+<h1>Construction</h1>
 
+<br />
+<br />
+
+Alright, people. Put your hard hats on, because we've moved on from preconfiguration and setting up the website. It's time to do the dirty work, get down on our knees and build it. The easy stuff is over! 
+
+<br />
+
+The starter kit needed for building a website is obviously: How to display text, how to style text, how to arrange the different elements of it, and how to personalise it. <br />
+In Lingo the way to create text is through the `para` and `header1-`
+
+```JS
+-header2/"Aloha!"
+-para/"I like oranges."
+```
 
 
 
